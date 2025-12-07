@@ -25,25 +25,25 @@ A narrativa acompanha **Abigail**, uma jovem que realiza um ritual em uma flores
 
 ## 🖼️ Screenshots
 ### Tela Inicial
-![Menu do Jogo](images/tela_inicial.png)
+![Menu do Jogo](imagens/tela_inicial.png)
 
 ### Visão do Jogador
-![Menu do Jogo](images/visao_jogador.png)
+![Menu do Jogo](imagens/visao_jogador.png)
 
 ### Elementos de Cena
-![Menu do Jogo](images/elementos_1.png)
+![Menu do Jogo](imagens/elementos_1.png)
 
 ### Personagens
-![Menu do Jogo](images/personagens_1.png)
+![Menu do Jogo](imagens/personagens_1.png)
 
 ### Fase 1
-![Gameplay Fase 1](images/cenario_1.png)
+![Gameplay Fase 1](imagens/cenario_1.png)
 
 ### Fase 2
-![Gameplay Fase 2](images/cenario_2.png)
+![Gameplay Fase 2](imagens/cenario_2.png)
 
 ### Tela de Vitória
-![Game Over / Vitória](images/vitoria.png)
+![Game Over / Vitória](imagens/vitoria.png)
 
 ## 🛠️ Ferramentas Utilizadas
 - **GameMaker Studio** → engine principal para desenvolvimento do jogo.  
