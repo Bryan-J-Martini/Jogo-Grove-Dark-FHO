@@ -74,7 +74,7 @@ Futuras melhorias podem incluir novas fases, inimigos adicionais e mecânicas ma
 ---
 
 ## 🚀 Como Executar
-1. Baixe a pasta Jogo executável do **Grove Dark**, baixar arquivo GROVE_DARK_FINAL.exe, data.win e options.ini numa mesma pasta na sua máquina divirta-se
+1. Baixe a pasta Jogo executável do **Grove Dark**, baixar arquivo GROVE_DARK_FINAL.exe, data.win e options.ini numa mesma pasta na sua máquina e divirta-se jogando
   
 
 ---
