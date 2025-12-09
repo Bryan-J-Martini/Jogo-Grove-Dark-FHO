@@ -74,7 +74,7 @@ Futuras melhorias podem incluir novas fases, inimigos adicionais e mecânicas ma
 ---
 
 ## 🚀 Como Executar
-1. Baixe o executável do **Grove Dark** e divirta-se
+1. Baixe a parta Jogo executável do **Grove Dark** e divirta-se
   
 
 ---
